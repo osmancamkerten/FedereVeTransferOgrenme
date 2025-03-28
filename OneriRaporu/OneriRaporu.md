@@ -36,7 +36,7 @@ Projenin tüm aşamaları tek bir kişi tarafından yürütülmektedir. Osman Ç
 
 ### Ana Donanımlar
 
-| Donanım                        | Gör                                                                                                     |
+| Donanım                        | Görsel                                                                                                    |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Raspberry Pi 3 Model B+**    | <img src="Figure/raspberry_pi_3_b_plus.jpg" alt="Raspberry Pi 3 Model B+" width="300"/>                    |
 | **Orange Pi 5 Plus (8GB)**     | <img src="Figure/orange_pi_5_plus.jpg" alt="Orange Pi 5 Plus (8GB)" width="300"/>                            |
